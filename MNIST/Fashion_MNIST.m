@@ -1,3 +1,5 @@
+% MNIST feedforward neural network (FNN), MNIST FASHION,
+% MNIST from scratch, visual representation of the results.
 clear; clc; close all force
 %load('nn_mnist1.mat') %Для загрузки переменных из файла
 images = loadMNISTImages('train-images-idx3-ubyte'); % Тренировочные картинки
