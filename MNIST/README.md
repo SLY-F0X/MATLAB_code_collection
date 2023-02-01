@@ -1,5 +1,4 @@
-# MATLAB MNIST feedforward neural network (FNN)
-# with visual showing results
+# MATLAB MNIST feedforward neural network (FNN) with visual showing results
 
 Преобразуем базу данных из бинарных файлов, в таблицу матриц и запишем в результат переменных в «MNIST_NUMS_DATABASE.mat».
 Код для загрузки бинарных файлов представлен в MNIST FASHION.
