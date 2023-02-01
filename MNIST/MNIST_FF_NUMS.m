@@ -1,3 +1,5 @@
+% MNIST feedforward neural network (FNN), MNIST Numbers, 
+% MNIST from scratch, visual representation of the results.
 clear; clc; close all force
 load(full('MNIST_NUMS_DATABASE'))
 % Из базы данных MNIST_NUMS_DATABASE.mat загружаются уже готовые данные для вычислений.
