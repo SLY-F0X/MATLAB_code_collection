@@ -1,7 +1,7 @@
 # MATLAB
 MATLAB CODE
 
-Коллекция кода в Матлаб. 
+Коллекция кода Матлаб. 
 
 tags: MNIST feedforward neural network (FNN), MNIST FASHION, MNIST from scratch, visual representation of the results.
 
